@@ -8,7 +8,7 @@ export default defineConfig({
 			'@assets': '/src/assets',
 		},
 	},
-	base: '/YZS/', // Asegúrate de que coincide con el nombre del repo
+	base: '/', // Asegúrate de que coincide con el nombre del repo
 	build: {
 		outDir: 'dist',
 	},
